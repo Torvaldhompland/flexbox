@@ -1,6 +1,6 @@
-topptekst {
+.topptekst {
 
-    background-image: url("snowy-mountains.jpg");
+    background-image: url("../media/La_Morra.jpeg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,21 +9,21 @@ topptekst {
 
 }
 
-topp {
+.topp {
     height: 350px;
 
 
 }
-menu{
+.menu{
     
     height:26px;
-    background-color: lighblue;
+    background-color: forestgreen;
     color:white;
       padding:12px;
     font-family:Helvetica,Arial;
 }
 
-menu a{
+.menu a{
     color:white;
     text-decoration: none;
       display:inline;
@@ -32,11 +32,13 @@ menu a{
     padding:20px;
 }
 
-menu a:visited{
+.menu a:visited{
     color:white;
 }
 
-innpakning{
+.innpakning{
+ /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
+    men "passer" til hverandre, stort sett*/
     max-width: 1200px;
     min-width: 1100px;
     margin:auto;
@@ -46,13 +48,13 @@ innpakning{
   
 }
 
-halv{
+.halv{
     width:48%;
     margin:1%;
     padding-top:0px;
 }
 
-hele{
+.hele{
     width:98%;
     margin:1%;
 }
@@ -64,34 +66,34 @@ body{
    
 }
 
-midtstilt{
+.midtstilt{
     text-align: center;
 }
 
-totredeler{
+.totredeler{
     width:64%;
     margin:1%;
     
     
 }
 
-entredel{
+.entredel{
     width:29%;
     margin:1%;
     padding:1%;
     background-color:lightgray;
 }
 
-footer{
+.footer{
 
     height:60px;
-    background-color:lightblue;
+    background-color:forestgreen;
     color:white;
     text-align:center;
     padding-top: 15px;
 }
 
-ytre{
+.ytre{
     width:1600px;
     margin:auto;
 }
