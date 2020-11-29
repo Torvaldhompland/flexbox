@@ -1,4 +1,4 @@
-.topptekst {
+topptekst {
 
     background-image: url("snowy-mountains.jpg");
     height: 100%;
@@ -9,12 +9,12 @@
 
 }
 
-.topp {
+topp {
     height: 350px;
 
 
 }
-.menu{
+menu{
     
     height:26px;
     background-color: lighblue;
@@ -23,7 +23,7 @@
     font-family:Helvetica,Arial;
 }
 
-.menu a{
+menu a{
     color:white;
     text-decoration: none;
       display:inline;
@@ -32,11 +32,11 @@
     padding:20px;
 }
 
-.menu a:visited{
+menu a:visited{
     color:white;
 }
 
-.innpakning{
+innpakning{
     max-width: 1200px;
     min-width: 1100px;
     margin:auto;
@@ -46,13 +46,13 @@
   
 }
 
-.halv{
+halv{
     width:48%;
     margin:1%;
     padding-top:0px;
 }
 
-.hele{
+hele{
     width:98%;
     margin:1%;
 }
@@ -64,25 +64,25 @@ body{
    
 }
 
-.midtstilt{
+midtstilt{
     text-align: center;
 }
 
-.totredeler{
+totredeler{
     width:64%;
     margin:1%;
     
     
 }
 
-.entredel{
+entredel{
     width:29%;
     margin:1%;
     padding:1%;
     background-color:lightgray;
 }
 
-.footer{
+footer{
 
     height:60px;
     background-color:lightblue;
@@ -91,7 +91,7 @@ body{
     padding-top: 15px;
 }
 
-.ytre{
+ytre{
     width:1600px;
     margin:auto;
 }
