@@ -1,4 +1,4 @@
-.topptekst {
+toptext {
 
     background-image: url("../media/La_Morra.jpeg");
     height: 100%;
@@ -9,12 +9,12 @@
 
 }
 
-.topp {
+top {
     height: 350px;
 
 
 }
-.menu{
+menu{
     
     height:26px;
     background-color: forestgreen;
@@ -23,7 +23,7 @@
     font-family:Helvetica,Arial;
 }
 
-.menu a{
+menu a{
     color:white;
     text-decoration: none;
       display:inline;
@@ -32,11 +32,11 @@
     padding:20px;
 }
 
-.menu a:visited{
+menu a:visited{
     color:white;
 }
 
-.innpakning{
+wrapping{
  /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
     men "passer" til hverandre, stort sett*/
     max-width: 1200px;
@@ -48,13 +48,13 @@
   
 }
 
-.halv{
+half{
     width:48%;
     margin:1%;
     padding-top:0px;
 }
 
-.hele{
+all{
     width:98%;
     margin:1%;
 }
@@ -66,7 +66,7 @@ body{
    
 }
 
-.midtstilt{
+centered{
     text-align: center;
 }
 
@@ -77,14 +77,14 @@ body{
     
 }
 
-.entredel{
+endtry{
     width:29%;
     margin:1%;
     padding:1%;
     background-color:lightgray;
 }
 
-.footer{
+footer{
 
     height:60px;
     background-color:forestgreen;
@@ -93,7 +93,7 @@ body{
     padding-top: 15px;
 }
 
-.ytre{
+exterior{
     width:1600px;
     margin:auto;
 }
