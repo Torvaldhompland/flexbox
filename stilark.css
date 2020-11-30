@@ -29,6 +29,6 @@ flex-wrap: wrap;
     margin: 5px;
   }
 img {
-  max-width: 100%;
-  height: 20%;
+  width: 100%;
+  height: 40%;
 }
