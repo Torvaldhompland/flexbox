@@ -31,3 +31,19 @@ flex-wrap: wrap;
     margin: 5px;
   }
 
+.menu a{
+    color:white;
+    text-decoration: none;
+      display:inline;
+    width:200px;
+    margin:20px;
+    padding:20px;
+}
+
+.menu a:visited{
+    color:white;
+    
+    body{
+
+    font-family:Helvetica,Arial;
+    font-size:18px;
