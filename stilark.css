@@ -7,7 +7,7 @@ flex-direction: column;
 flex-wrap: wrap;
 }
 
-    .topptekst {
+    .header {
    height:120px;
    background-color:#909090;
    padding:5px;
