@@ -8,10 +8,12 @@ flex-wrap: wrap;
 }
 
     .header {
-   height:120px;
-   background-color:#909090;
-   padding:5px;
-   margin:5px;
+     background-image: url("snowy-mountains.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
   .meny {
   height: 26px;
