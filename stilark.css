@@ -1,31 +1,99 @@
-.innpakning{
-max-width: 1200px;
-min-width: 1100px;
-margin: auto;
-display: flex;
-flex-direction: column;
-flex-wrap: wrap;
-}
+.topptekst {
 
-    .topptekst{
-    background-image: url("snowy-mountains.jpg");
+    background-image: url("../media/La_Morra.jpeg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-}
-        
-  .meny{
-  height: 26px;
-  background-color:lightblue;
-  color: white;
-  padding: 12px;
-  font-family: Helvetica,Arial;
-  }
 
-  .innhold{
-    background-color: white;
-    padding: 5px;
-    margin: 5px;
-  }
+}
+
+.topp {
+    height: 350px;
+
+
+}
+.menu{
+    
+    height:26px;
+    background-color: forestgreen;
+    color:white;
+      padding:12px;
+    font-family:Helvetica,Arial;
+}
+
+.menu a{
+    color:white;
+    text-decoration: none;
+      display:inline;
+    width:200px;
+    margin:20px;
+    padding:20px;
+}
+
+.menu a:visited{
+    color:white;
+}
+
+.innpakning{
+ /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
+    men "passer" til hverandre, stort sett*/
+    max-width: 1200px;
+    min-width: 1100px;
+    margin:auto;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+}
+
+.halv{
+    width:48%;
+    margin:1%;
+    padding-top:0px;
+}
+
+.hele{
+    width:98%;
+    margin:1%;
+}
+
+body{
+   
+    font-family:Helvetica,Arial;
+    font-size:18px;
+   
+}
+
+.midtstilt{
+    text-align: center;
+}
+
+.totredeler{
+    width:64%;
+    margin:1%;
+    
+    
+}
+
+.entredel{
+    width:29%;
+    margin:1%;
+    padding:1%;
+    background-color:lightgray;
+}
+
+.footer{
+
+    height:60px;
+    background-color:forestgreen;
+    color:white;
+    text-align:center;
+    padding-top: 15px;
+}
+
+.ytre{
+    width:1600px;
+    margin:auto;
+}
