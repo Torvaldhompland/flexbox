@@ -72,11 +72,9 @@ position: fixed;
     padding-top: 15px;
 }
 
-.innhold2 {
-   flex: 1;
-   }
-
-.innhold3 {
-   flex: 2;
-   }
+.container {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
 
