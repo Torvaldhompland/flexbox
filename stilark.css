@@ -18,8 +18,10 @@ position: fixed;
 
 .snowy {
     width: 100%;
+    height: 50%;
     image-size: cover;
     position: fixed;
+    image-repeat: no-repeat;
    }
 
   .meny {
