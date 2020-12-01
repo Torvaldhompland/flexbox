@@ -13,6 +13,8 @@ position: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     position: fixed;
+        width:98%;
+    margin:1%;
 }
 
 .snowy {
@@ -28,6 +30,8 @@ position: fixed;
   color: white;
   padding: 12px;
   font-family: Helvetica,Arial;
+      width:98%;
+    margin:1%;
   }
 
   .innhold {
