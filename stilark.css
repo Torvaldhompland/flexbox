@@ -40,6 +40,10 @@ position: fixed;
 .innhold h1{
     text-align: center;
 }
+
+.innhold p{
+    text-align: left;
+}
     
 .meny a{
     color:white;
