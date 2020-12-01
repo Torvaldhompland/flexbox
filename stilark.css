@@ -1,29 +1,22 @@
-.innpakning {
-width: 1080px; 
-margin: auto;
+.innpakning { 
+margin: 1%;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
 position: fixed;
 }
 
-    .header {
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: fixed;
-        width:98%;
-    margin:1%;
+   
 }
 
-.snowy {
-    width: 100%;
-    image-size: cover;
-    position: fixed;
-    picture-repeat: no-repeat;
-   }
-
+.header {
+  background-image: url("/Users/torvaldhompland/Documents/VG3/IT/flexbox/media/La_Morra.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
   .meny {
   height: 26px;
   background-color:lightblue;
