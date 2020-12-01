@@ -6,8 +6,6 @@ flex-wrap: wrap;
 position: fixed;
 }
 
-   
-}
 
 .header {
   background-image: url("snowy-mountains.jpg");
@@ -72,4 +70,10 @@ position: fixed;
     padding-top: 15px;
 }
 
+.innhold2{
+order: 1;
+}
 
+.innhold3{
+order: 2;
+}
