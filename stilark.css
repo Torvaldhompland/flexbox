@@ -5,6 +5,7 @@ margin: auto;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
+position: fixed;
 }
 
     .header {
@@ -13,7 +14,7 @@ flex-wrap: wrap;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: left;
+    position: fixed;
 }
 
 .snowy {
