@@ -55,8 +55,13 @@ position: fixed;
     color:white;
     }
 
-body{
-
+ body{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        width: 1080px;
+        background-color: #634335;
     font-family:Helvetica,Arial;
     font-size:18px;
-   }
+    }
+
+
