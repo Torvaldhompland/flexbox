@@ -9,8 +9,8 @@ position: fixed;
    
 }
 
-.header {
-  background-image: url("/Users/torvaldhompland/Documents/VG3/IT/flexbox/media/La_Morra.jpeg");
+header {
+  background-image: url("snowy-mountains.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
