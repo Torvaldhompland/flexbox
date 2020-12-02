@@ -5,6 +5,10 @@ flex-direction: column;
 flex-wrap: wrap;
 position: fixed;
 }
+.inppaknig div {
+  flex: 1;
+  padding: 10px;
+}
 
 
 .header {
