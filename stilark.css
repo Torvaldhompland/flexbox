@@ -1,5 +1,5 @@
 .innpakning { 
-margin: 0%;
+margin: 1%;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
@@ -21,7 +21,7 @@ position: fixed;
   color: white;
   padding: 12px;
   font-family: Helvetica,Arial;
-      width:98%;
+      width:100%;
     margin:1%;
   }
 
